@@ -1,4 +1,5 @@
-### 基礎語法問題
+### 基礎問題
+- Kotlin 檔案的副檔名為 ＿？
 - `val` 和 `var` 的不同
 - `print` 和 `println` 有什麼不同？
 
@@ -32,6 +33,10 @@ fruits
 ```
 
 會印出什麼內容？
+
+listOf(3.14F, 2) 的型態為？
+
+listOf("a", 2) 的型態為？
 
 ### Coroutine
 - launch 和 async 有什麼不同 
