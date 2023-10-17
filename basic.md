@@ -2,13 +2,17 @@
 - Kotlin 檔案的副檔名為 ＿？
 - `val` 和 `var` 的不同
 - `print` 和 `println` 有什麼不同？
+- `for (i in 1..10) print(i)` 會印出？
+- `for (i in 1 until 10) print(i)` 會印出？
+- `for (i in 1..10 step 2) print(i)` 會印出？
+- `for (i in 10 downTo 1) print(i)` 會印出？
 
 ### 進階語法問題
 - `typealias NodeSet = Set<Network.Node>` 這段程式要達成的效果是什麼？
 - 
 
 
-## 物件
+### 物件
 - `data class` 是什麼？宣告之後在 Kotlin 內產生什麼作用
 - `companion object` 是什麼意思？
 - 宣告 singleton 時需要使用的關鍵字是什麼？
