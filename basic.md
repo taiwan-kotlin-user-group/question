@@ -38,9 +38,9 @@ fruits
 
 會印出什麼內容？
 
-listOf(3.14F, 2) 的型態為？
+`listOf(3.14F, 2)` 的型態為？
 
-listOf("a", 2) 的型態為？
+`listOf("a", 2)` 的型態為？
 
 ### Coroutine
 - launch 和 async 有什麼不同 
