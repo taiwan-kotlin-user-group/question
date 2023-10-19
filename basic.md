@@ -6,6 +6,7 @@
 - `for (i in 1 until 10) print(i)` 會印出？
 - `for (i in 1..10 step 2) print(i)` 會印出？
 - `for (i in 10 downTo 1) print(i)` 會印出？
+- Kotlin 中的資料型別有哪些？
 
 ### 進階語法問題
 - `typealias NodeSet = Set<Network.Node>` 這段程式要達成的效果是什麼？
@@ -19,6 +20,7 @@
 
 ### 函數
 - scope function 是哪五個
+- 使用 `also` 讓兩個變數內容對調
 - `tailrec` 關鍵字是什麼意思？在 Kotlin 內如何使用？
 - `inline fun` 關鍵字是什麼意思？在 Kotlin 內如何使用？
 
