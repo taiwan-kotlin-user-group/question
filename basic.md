@@ -9,12 +9,12 @@
 
 ### 進階語法問題
 - `typealias NodeSet = Set<Network.Node>` 這段程式要達成的效果是什麼？
-- 
 
 
 ### 物件
 - `data class` 是什麼？宣告之後在 Kotlin 內產生什麼作用
 - `companion object` 是什麼意思？
+- `companion object` 和 `object` 的不同？
 - 宣告 singleton 時需要使用的關鍵字是什麼？
 
 ### 函數
@@ -41,6 +41,8 @@ fruits
 `listOf(3.14F, 2)` 的型態為？
 
 `listOf("a", 2)` 的型態為？
+
+`List` 和 `MutableList` 的不同是？
 
 ### Coroutine
 - launch 和 async 有什麼不同 
