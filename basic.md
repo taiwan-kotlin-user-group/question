@@ -29,6 +29,7 @@
 
 ### Collections
 
+- 以下程式碼會印出什麼內容？
 ```kotlin
 val fruits = listOf("banana", "avocado", "apple", "kiwifruit")
 fruits
@@ -37,14 +38,9 @@ fruits
     .map { it.uppercase() }
     .forEach { println(it) }
 ```
-
-會印出什麼內容？
-
-`listOf(3.14F, 2)` 的型態為？
-
-`listOf("a", 2)` 的型態為？
-
-`List` 和 `MutableList` 的不同是？
+- `listOf(3.14F, 2)` 的型態為？
+- `listOf("a", 2)` 的型態為？
+- `List` 和 `MutableList` 的不同是？
 
 ### Coroutine
 - launch 和 async 有什麼不同 
