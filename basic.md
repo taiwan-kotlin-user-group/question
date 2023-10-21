@@ -44,6 +44,7 @@
 
 ### Collections
 
+- 以下程式碼會印出什麼內容？
 ```kotlin
 val fruits = listOf("banana", "avocado", "apple", "kiwifruit")
 fruits
@@ -52,14 +53,9 @@ fruits
     .map { it.uppercase() }
     .forEach { println(it) }
 ```
-
-會印出什麼內容？
-
-`listOf(3.14F, 2)` 的型態為？
-
-`listOf("a", 2)` 的型態為？
-
-`List` 和 `MutableList` 的不同是？
+- `listOf(3.14F, 2)` 的型態為？
+- `listOf("a", 2)` 的型態為？
+- `List` 和 `MutableList` 的不同是？
 - 請解釋 mapOf 與 listOf 的差異。
 - 如何在 List 中查找特定元素？
 - `fold` 和 `reduce` 的功能是？
